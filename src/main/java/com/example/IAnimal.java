@@ -16,5 +16,5 @@ public interface IAnimal {
 
     default String getFamily() {
         return "Существует несколько семейств: заячьи, беличьи, мышиные, кошачьи, псовые, медвежьи, куньи";
-    };
+    }
 }
